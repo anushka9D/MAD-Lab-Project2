@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Task Me</string>
+    <string name="title1">Task</string>
+    <string name="title2">Me.</string>
+    <string name="logo">Task Me.</string>
+    <string name="welcome_dis">Easily manage your personal tasks, family projects, and team’s work ...! 👍</string>
+    <string name="loading">Please Wait . . .!</string>
+    <string name="nav">click</string>
+
+
+    <string name="on_board_screen_skip">Skip</string>
+    <string name="on_board_screen_next">Next</string>
+    <string name="on_board_screen1_title">List Your Events</string>
+    <string name="on_board_screen1_dis">Easily manage your personal Event and add tasks, family projects, and team’s work all in one place.</string>
+
+    <string name="on_board_screen2_title">Remind Your Event</string>
+    <string name="on_board_screen2_dis">Remind your all event and task so then dont care about miss your events.</string>
+
+    <string name="on_board_screen3_title">Achieve your goals</string>
+    <string name="on_board_screen3_dis">A goal is something that you want to accomplish or achieve at some defined point in the future.</string>
+
+
+    <string name="sign_in">Sign in</string>
+    <string name="sign_in_title1">Welcome Back</string>
+    <string name="sign_in_title2">Please Enter your Email address and Password for Login</string>
+    <string name="sign_in_forgot">Forgot Password?</string>
+    <string name="sign_in_signup">Not Registrar Yet?</string>
+    <string name="sign_in_edit1">Enter Your Email</string>
+    <string name="sign_in_edit2">Enter Your Password</string>
+
+
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up_title1">Create Your Account</string>
+    <string name="sign_up_title2">Please Enter Your Name, Email address, Phone number and Password to Create Account</string>
+    <string name="sign_up_edit1">Enter Your name</string>
+    <string name="sign_up_edit2">Enter Your email address</string>
+    <string name="sign_up_edit3">Enter Your phone number</string>
+    <string name="sign_up_edit4">Enter Your Password</string>
+    <string name="sign_up_">Have an Account?</string>
+
+    <string name="profile">Edit Profile</string>
+    <string name="hello_jhon">Hello Jhon</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="save">Save</string>
+
+
+    <string name="notification">Notification</string>
+    <string name="notification_just">Just Now</string>
+    <string name="notification_time1">1:00 PM</string>
+    <string name="notification_time2">9:30 PM</string>
+    <string name="notification_time3">12:00 AM</string>
+    <string name="notification_time4">1 Days Ago</string>
+    <string name="notification_time5">2 Days Ago</string>
+    <string name="notification_1">This is a Notification for You. Please check for it just now.</string>
+
+
+    <string name="home_title1">Hurry up Achieved Your Goals Just Now.</string>
+    <string name="home_progress">Progress</string>
+    <string name="home_progress1">To Day Event</string>
+    <string name="home_progress2">Complete Event</string>
+    <string name="home_progress3">Uncompleted Event</string>
+    <string name="home_today">Monday / 12</string>
+    <string name="home_today_event">Today Event</string>
+
+
+    <string name="get_start">Get Started</string>
+    <string name="get_start1">Start to Manage Your Event</string>
+    <string name="get_start2">Just Start to manage your events and manage your time. Remind your all event and task so then dont care about miss your events.</string>
+
+    <string name="add">Event Planner</string>
+    <string name="add_event1">Game Night</string>
+    <string name="add_event2">Buy Groceries</string>
+    <string name="add_event3">Meeting with client</string>
+    <string name="add_event4">Movie Night</string>
+    <string name="add_event5">Doctor Appointment</string>
+    <string name="add_event6">Camping Trip</string>
+    <string name="add_event7">Brother Birthday</string>
+
+    <string name="add_event_time1">01/08/2024, 10:00PM</string>
+    <string name="add_event_time2">02/08/2024, 10:00PM</string>
+    <string name="add_event_time3">03/08/2024, 10:00PM</string>
+    <string name="add_event_time4">04/08/2024, 10:00PM</string>
+    <string name="add_event_time5">01/09/2024, 10:00PM</string>
+    <string name="add_event_time6">01/10/2024, 09:00AM</string>
+    <string name="add_event_time7">01/10/2024, 11:00PM</string>
+
+    <string name="add_event_date1">Today</string>
+    <string name="add_event_date2">Next 7 Days</string>
+    <string name="add_event_date3">Next 30 Days</string>
+    <string name="add_event_date4">Future</string>
+
+    <string name="add_event_game">Play game with Friend</string>
+
+</resources>
